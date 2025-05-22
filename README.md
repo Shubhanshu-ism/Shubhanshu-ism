@@ -78,10 +78,3 @@
 > - 💼 Users can post and apply for jobs  
 > - 👥 Engage in **open discussions** on coding, problem-solving, and mentoring  
 > - 🧑‍🤝‍🧑 Join interest-based **groups and communities**
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting+my+profile!;Drop+a+⭐+on+my+repos!&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&pause=1000&size=22"
-    alt="Thanks for visiting my profile"/>
-</p>
