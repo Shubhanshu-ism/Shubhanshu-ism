@@ -1,4 +1,4 @@
-<h1 align="center">Hi  👋, I'm Shubhanshu Jain :)</h1>
+<h1 align="center">Hi  👋, I'm Shubhanshu Jain : )</h1>
 <h3 align="center">Recent Electrical Engineering Graduate from IIT (ISM) Dhanbad Full-Stack Developer  </h3>
 <!-- <h3 align="center"</h3> -->
 
