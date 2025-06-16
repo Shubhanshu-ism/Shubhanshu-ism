@@ -63,7 +63,7 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [StickIt](https://github.com/Shubhanshu-ism/trello-clone) | Trello-style task board with drag-and-drop cards. | React, Tailwind, React DnD, localStorage |
-| [Gemini-GPT Duet](https://github.com/Shubhanshu-ism/Gemini-GPT-Duet) | Chatbot merging ChatGPT and Gemini API responses side-by-side. | React, JS, OpenAI API, Gemini API |
+| [AI Compare](https://github.com/Shubhanshu-ism/AI-Compare) | Chatbot merging ChatGPT and Gemini API responses side-by-side. | React, JS, OpenAI API, Gemini API |
 | [AI Coaching Agent](https://github.com/Shubhanshu-ism/ai-coaching-agent) | Voice-enabled AI coach with real-time learning and speech recognition. | Next.js, Tailwind, Convex, WebSpeech API |
 
 ---
