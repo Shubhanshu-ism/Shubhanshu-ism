@@ -53,7 +53,7 @@
 
 #### 🧠 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java" />
 </p>
 
 ---
