@@ -12,7 +12,7 @@
 
 - 🎓 Recent graduate from **IIT (ISM) Dhanbad**, B.Tech in Electrical Engineering
 - 🌐 Passionate about **Web Development, AI tools, and intuitive UI/UX**
-- 💼 Previously interned at **UDOVIBE** as a Web Developer
+- 💼 Previously interned at **IncNut Digital** as an **AI Intern (LLM Application Developer)** and at **UDOVIBE** as a **Web Developer**.
 - 🔭 Currently exploring more around **drag-and-drop libraries, AI agents, and scalable React apps**
 - 📫 Reach me at:
   - 📧 Email: [shubhanshujain2233@gmail.com](mailto:shubhanshujain2233@gmail.com)  
@@ -33,12 +33,12 @@
 
 #### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts,bootstrap,redux,materialui" />
 </p>
 
 #### 🛠️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,jest,langgraph" />
 </p>
 
 #### 🗄️ Database
@@ -48,7 +48,7 @@
 
 #### ⚙️ Dev Tools & Hosting
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,linux,yaml" />
 </p>
 
 #### 🧠 Programming Languages
@@ -63,8 +63,8 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [StickIt](https://github.com/Shubhanshu-ism/trello-clone) | Trello-style task board with drag-and-drop cards. | React, Tailwind, React DnD, localStorage |
-| [AI Compare](https://github.com/Shubhanshu-ism/AI-Compare) | Chatbot merging ChatGPT and Gemini API responses side-by-side. | React, JS, OpenAI API, Gemini API |
-| [AI Coaching Agent](https://github.com/Shubhanshu-ism/ai-coaching-agent) | Voice-enabled AI coach with real-time learning and speech recognition. | Next.js, Tailwind, Convex, WebSpeech API |
+| [AI Compare](https://github.com/Shubhanshu-ism/AI-Compare) | Chatbot merging Goggle Gemini API and Deepseek responses side-by-side. | React, JS, Gemini API, Deepseek API |
+| [AI Coaching Agent](https://github.com/Shubhanshu-ism/ai-coaching-agent) | Voice-enabled AI coach with real-time learning and speech recognition. | Next.js, Tailwind, Convex, Gemini API, WebSpeech API |
 
 ---
 
